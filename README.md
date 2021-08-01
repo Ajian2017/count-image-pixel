@@ -19,4 +19,4 @@ $ cd count-image-pixel
 $ swift icon_script.swift
 ```
 
-![image](https://github.com/Ajian2017/count-image-pixel/raw/main/images/count-pixel-demo.png)
+![image](https://github.com/Ajian2017/count-image-pixel/blob/main/images/count-pixel-demo.png)

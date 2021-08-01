@@ -6,7 +6,7 @@
 * **下载源码**
 
 ``` bash
-$ git clone https://github.com/Ajian2017/count-image-pixel
+$ git clone https://github.com/Ajian2017/count-image-pixel.git
 ```
 
 * **进入文件夹 count-image-pixel**
@@ -19,4 +19,4 @@ $ cd count-image-pixel
 $ swift icon_script.swift
 ```
 
-![](/images/count-pixel-demo.png)
+![](https://github.com/Ajian2017/count-image-pixel/blob/main/count-pixel-demo.png)

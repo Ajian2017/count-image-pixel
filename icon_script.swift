@@ -17,8 +17,10 @@ func run() {
     print("请输入输入图片名（默认为test.png）:")
     if var inputPath = readLine() {
         if inputPath.count == 0 {
-            inputPath = "test.png"
-        }
+            inputPath = "images/test.png"
+        } else {
+            inputPath = "images/" + inputPath
+        } 
         let url  = URL(fileURLWithPath: inputPath)
         if let img = getInputImage(url: url) {
             let W = Int(img.width)

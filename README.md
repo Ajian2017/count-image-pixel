@@ -14,9 +14,9 @@ $ git clone https://github.com/Ajian2017/count-image-pixel.git
 $ cd count-image-pixel
 ```
 
-* **运行脚本(可以把目录中的test.png 替换为其它png图片)**
+* **运行脚本(可以把images目录中的test.png 替换为其它png图片)**
 ``` bash
 $ swift icon_script.swift
 ```
 
-![](https://github.com/Ajian2017/count-image-pixel/blob/main/count-pixel-demo.png)
+![image](https://github.com/Ajian2017/count-image-pixel/blob/main/count-pixel-demo.png)
